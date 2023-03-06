@@ -1,0 +1,371 @@
+{
+    "users" :[
+        {
+            "name" : "aarav",
+            "email" : "eam@gmail.com",
+            "phone":"34543245",
+            "address": "ap",
+            "id":3,
+            "status" : "InActive"
+        },
+    {
+        "name" : "babita",
+        "email" : "f@gmail.com",
+        "phone":"345243245",
+        "address": "bp",
+        "id":4,
+        "status" : "Active"
+    },
+    {
+        "name" : "yuvi",
+        "email" : "g@gmail.com",
+        "phone":"345243245",
+        "address": "c",
+        "id":4,
+        "status" : "Active"
+    },{
+        "name" : "kamlesh",
+        "email" : "h@sgmail.com",
+        "phone":"345423245",
+        "address": "d",
+        "id":5,
+        "status" : "Active"
+    },
+    {
+        "name" : "dep",
+        "email" : "i@gmail.com",
+        "phone":"345423245",
+        "address": "e",
+        "id":6,
+        "status" : "Active"
+    },
+    {
+        "name" : "priyanka",
+        "email" : "j@gmail.com",
+        "phone":"34543245",
+        "address": "g",
+        "id":7,
+        "status" : "Active"
+    },
+    {
+        "name" : "satish",
+        "email" : "rawm@gmail.com",
+        "phone":"345432245",
+        "address": "f",
+        "id":8,
+        "status" : "Active"
+    },
+    {
+        "name" : "yeshpal",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "h",
+        "id":9,
+        "status" : "Active"
+    },
+    {
+        "name" : "rishu",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "i",
+        "id":10,
+        "status" : "Active"
+    },
+    {
+        "name" : "shiva",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "ewd",
+        "id":11,
+        "status" : "Active"
+    },
+    {
+        "name" : "aryan",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "dddddd",
+        "id":12,
+        "status" : "InActive"
+    },{
+        "name" : "abhilasha",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":13,
+        "status" : "InActive"
+    },{
+        "name" : "kirti",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":14,
+        "status" : "InActive"
+    },{
+        "name" : "hunny",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":15,
+        "status" : "Active"
+    },{
+        "name" : "kamlesh",
+        "email" : "ram@sgmail.com",
+        "phone":"345423245",
+        "address": "hp",
+        "id":16,
+        "status" : "Active"
+    },
+    {
+        "name" : "sahil",
+        "email" : "ramd@gmail.com",
+        "phone":"34",
+        "address": "hp",
+        "id":17,
+        "status" : "Active"
+    },
+    {
+        "name" : "priyanka",
+        "email" : "ram@gmail.com",
+        "phone":"54",
+        "address": "hp",
+        "id":18,
+        "status" : "Active"
+    },
+    {
+        "name" : "satish",
+        "email" : "rawm@gmail.com",
+        "phone":"223",
+        "address": "hp",
+        "id":19,
+        "status" : "Active"
+    },
+    {
+        "name" : "yeshpal",
+        "email" : "cdc@gmail.com",
+        "phone":"321",
+        "address": "hp",
+        "id":20,
+        "status" : "Active"
+    },
+    {
+        "name" : "rishu",
+        "email" : "mm@gmail.com",
+        "phone":"3212",
+        "address": "hp",
+        "id":21,
+        "status" : "Active"
+    },
+    {
+        "name" : "shiva",
+        "email" : "css@gmail.com",
+        "phone":"342    ",
+        "address": "hp",
+        "id":22,
+        "status" : "Active"
+    },
+    {
+        "name" : "aryan",
+        "email" : "rv@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":23,
+        "status" : "InActive"
+    },{
+        "name" : "abhilasha",
+        "email" : "lk@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":24,
+        "status" : "InActive"
+    },{
+        "name" : "kirti",
+        "email" : "tg@gmail.com",
+        "phone":"98",
+        "address": "hp",
+        "id":25,
+        "status" : "InActive"
+    },{
+        "name" : "hunny",
+        "email" : "fe@gmail.com",
+        "phone":"65",
+        "address": "hp",
+        "id":26,
+        "status" : "Active"
+    },{
+        "name" : "kamlesh",
+        "email" : "juj@sgmail.com",
+        "phone":"87",
+        "address": "hp",
+        "id":27,
+        "status" : "Active"
+    },
+    {
+        "name" : "kumar",
+        "email" : "rtamd@gmail.com",
+        "phone":"76",
+        "address": "hp",
+        "id":28,
+        "status" : "Active"
+    },
+    {
+        "name" : "priyanka",
+        "email" : "yt@gmail.com",
+        "phone":"655",
+        "address": "hp",
+        "id":29,
+        "status" : "Active"
+    },
+    {
+        "name" : "satish",
+        "email" : "ttt@gmail.com",
+        "phone":"567",
+        "address": "hp",
+        "id":30,
+        "status" : "Active"
+    },
+    {
+        "name" : "yeshpal",
+        "email" : "yth@gmail.com",
+        "phone":"56",
+        "address": "hp",
+        "id":31,
+        "status" : "Active"
+    },
+    {
+        "name" : "rishu",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":32,
+        "status" : "Active"
+    },
+    {
+        "name" : "shiva",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":33,
+        "status" : "Active"
+    },
+    {
+        "name" : "aryan",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":34,
+        "status" : "InActive"
+    },{
+        "name" : "abhilasha",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":35,
+        "status" : "InActive"
+    },{
+        "name" : "kirti",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":36,
+        "status" : "InActive"
+    },{
+        "name" : "hunny",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":37,
+        "status" : "Active"
+    },{
+        "name" : "kamlesh",
+        "email" : "ram@sgmail.com",
+        "phone":"345423245",
+        "address": "hp",
+        "id":38,
+        "status" : "Active"
+    },
+    {
+        "name" : "kumar",
+        "email" : "ramd@gmail.com",
+        "phone":"345423245",
+        "address": "hp",
+        "id":39,
+        "status" : "Active"
+    },
+    {
+        "name" : "priyanka",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":40,
+        "status" : "Active"
+    },
+    {
+        "name" : "satish",
+        "email" : "rawm@gmail.com",
+        "phone":"345432245",
+        "address": "hp",
+        "id":41,
+        "status" : "Active"
+    },
+    {
+        "name" : "yeshpal",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":42,
+        "status" : "Active"
+    },
+    {
+        "name" : "rishu",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":43,
+        "status" : "Active"
+    },
+    {
+        "name" : "shiva",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":44,
+        "status" : "Active"
+    },
+    {
+        "name" : "aryan",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":45,
+        "status" : "InActive"
+    },{
+        "name" : "abhilasha",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":46,
+        "status" : "InActive"
+    },{
+        "name" : "kirti",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":47,
+        "status" : "InActive"
+    },{
+        "name" : "hunny",
+        "email" : "ram@gmail.com",
+        "phone":"34543245",
+        "address": "hp",
+        "id":48,
+        "status" : "Active"
+    },{
+        "name" : "kamlesh",
+        "email" : "ram@sgmail.com",
+        "phone":"345423245",
+        "address": "hp",
+        "id":49,
+        "status" : "Active"
+    }
+]
+}
